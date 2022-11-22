@@ -8,8 +8,11 @@
 
 
 ## TEAM SMONKEY
-소중한 스몽키의 멤버들을 소개합니다.
+소중한 스몽키의 멤버들을 소개합니다!
+
 
 PM & Backend Developer - [limsaehyun](https://github.com/limsaehyun)
+
 Android Developer - [aahspringaa4](https://github.com/aahspringaa4)
+
 UI/UX Designer - [biscrab](https://github.com/biscrab)
